@@ -27,18 +27,18 @@ Some biological theories of aggression have specifically excluded video game and
 _(Example, derived from the United States Rating Organization ESRB)_<br><br>
 ![alt text](https://esrbstorage.blob.core.windows.net/esrbcontent/images/esrb-rating-categories-lg.png "ESRB Rating")
 <br><br>
-**EC (EARLY CHILDHOOD) : **Content is intended for young children.
+**EC (EARLY CHILDHOOD) :** Content is intended for young children.
 
-**E (gamesEVERYONE) : **Content is generally suitable for all ages. May contain minimal cartoon, fantasy or mild violence and/or infrequent use of mild language.
+**E (gamesEVERYONE) :** Content is generally suitable for all ages. May contain minimal cartoon, fantasy or mild violence and/or infrequent use of mild language.
 
-**E10+ (gamesEVERYONE 10+) : **Content is generally suitable for ages 10 and up. May contain more cartoon, fantasy or mild violence, mild language and/or minimal suggestive themes.
+**E10+ (gamesEVERYONE 10+) :** Content is generally suitable for ages 10 and up. May contain more cartoon, fantasy or mild violence, mild language and/or minimal suggestive themes.
 
-**T (gamesTEEN) : **Content is generally suitable for ages 13 and up. May contain violence, suggestive themes, crude humor, minimal blood, simulated gambling and/or infrequent use of strong language.
+**T (gamesTEEN) :** Content is generally suitable for ages 13 and up. May contain violence, suggestive themes, crude humor, minimal blood, simulated gambling and/or infrequent use of strong language.
 
-**M (gamesMATURE) : **Content is generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
+**M (gamesMATURE) :** Content is generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
 
 **AO (gamesADULTS ONLY) : **Content suitable only for adults ages 18 and up. May include prolonged scenes of intense violence, graphic sexual content and/or gambling with real currency.
 
-**RP (RATING PENDING) : **Not yet assigned a final ESRB rating. Appears only in advertising, marketing and promotional materials related to a physical (boxed) video game that is expected to carry an ESRB rating, and should be replaced by a game's rating once it has been assigned.
+**RP (RATING PENDING) :** Not yet assigned a final ESRB rating. Appears only in advertising, marketing and promotional materials related to a physical (boxed) video game that is expected to carry an ESRB rating, and should be replaced by a game's rating once it has been assigned.
 
 ## Question: <br><br>_"Will the creation of a rating system be effective in decreasing overall sales of video games for the 3 locations?"_<br>
