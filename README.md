@@ -42,16 +42,3 @@ _(Example, derived from the United States Rating Organization ESRB)_<br><br>
 **RP (RATING PENDING) : **Not yet assigned a final ESRB rating. Appears only in advertising, marketing and promotional materials related to a physical (boxed) video game that is expected to carry an ESRB rating, and should be replaced by a game's rating once it has been assigned.
 
 ## Question: <br><br>_"Will the creation of a rating system be effective in decreasing overall sales of video games for the 3 locations?"_<br>
-
-***
-
-# The Method of Testing the Solution
-
-Compare the sales based on locations before and after the rating agency has been established. This is an A/B manipulation of before and after regulation.
-
-We will compute the sales rate for before the regulation and compare it to the sales rate in after the regulation based on their respective locations.
-
-If sales mean decreases by 10% after the ratings have been placed on the games, conclude that the regulation is effective at reducing video game sales in that location. If sales does not decrease or is within one standard deviation, regulation was not effective at reducing video game sales in that location.
-
-## Components:
-**CONTROL & TEST VERSION - ** _Control version is defined as all video game sales prior to the rating agencies formation date (established year). The test version is defined as all video game sales on and after the rating agencies formation date (established year)._
