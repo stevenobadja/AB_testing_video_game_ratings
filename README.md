@@ -1,6 +1,6 @@
-# Does Video Games Ratings Impact Sales?
+# Does the Implementation of Video Games Ratings Impact their Sales?
 
-# Background
+## Background
 
 **Background:** "Since the late 1990s, some acts of violence have been highly publicized in relation to beliefs the suspect in the crime may have had a history of playing violent video games. Some research proposes violent video game use correlates with a temporary increase in aggression and a decrease in prosocial behavior (caring about the welfare and rights of others), but these results have not been reproduced.[5][6][7] Others theorise positive effects of playing video games including prosocial behavior in some contexts[8][9] and argue that the video game industry has served as a scapegoat for more generalised problems affecting some communities." ~ Wikipedia (https://en.wikipedia.org/wiki/Video_game_controversies)
 
@@ -12,7 +12,7 @@ Some biological theories of aggression have specifically excluded video game and
 
 ***
 
-# The Potential Solution: 
+## The Potential Solution: 
 ## _"Adding a rating system to games will decrease video game sales for the 3 locations by creating barriers of entry, making it more difficult for the consumers that are not old enough to purchase video games that is not recommended for them."_
 
 ### Rating Agencies:
@@ -37,7 +37,7 @@ _(Example, derived from the United States Rating Organization ESRB)_<br><br>
 
 **M (gamesMATURE) :** Content is generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
 
-**AO (gamesADULTS ONLY) : **Content suitable only for adults ages 18 and up. May include prolonged scenes of intense violence, graphic sexual content and/or gambling with real currency.
+**AO (gamesADULTS ONLY) :** Content suitable only for adults ages 18 and up. May include prolonged scenes of intense violence, graphic sexual content and/or gambling with real currency.
 
 **RP (RATING PENDING) :** Not yet assigned a final ESRB rating. Appears only in advertising, marketing and promotional materials related to a physical (boxed) video game that is expected to carry an ESRB rating, and should be replaced by a game's rating once it has been assigned.
 
